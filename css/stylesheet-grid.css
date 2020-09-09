@@ -1,0 +1,34 @@
+body {
+  font-family: "Arapey", serif;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
+nav {
+  position: sticky;
+  top: 0px;
+  box-sizing: border-box;
+  text-align: center;
+  align-self: flex-start;
+}
+
+main {
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: gray -3px -1px;
+}
+
+h1 {
+  text-align: right;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin: 15px;
+}
