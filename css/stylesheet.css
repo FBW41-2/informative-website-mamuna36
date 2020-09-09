@@ -17,7 +17,7 @@ main {
     flex-basis: 80%;
     padding: 10px;
     box-sizing: border-box;
-    box-shadow: gray 5px 5px 20px;
+    box-shadow: gray -3px -1px;
 
 }
 
